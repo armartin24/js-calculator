@@ -1,4 +1,3 @@
-document.write('Hello World!');
-
-
-
+function number_one() {
+  document.write('1'); ;
+}
