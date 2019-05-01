@@ -4,3 +4,6 @@ function number_one() {
 }
 
 
+function number_two() {
+  $("body").append("2");
+}
