@@ -1,11 +1,11 @@
 h1 {
-  color: mediumseagreen;
-  font-family: 'Arial';
-  text-align: center;
+	color: mediumseagreen;
+	font-family: 'Arial';
+	text-align: center;
 }
 
 body {
-  background-color: lavenderblush;
+ 	background-color: lavenderblush;
 }
 
 .box{
@@ -15,10 +15,13 @@ body {
 }
 
 .button_wrapper {
-    text-align: center;
+	width:500px;
+	height:700px;
+	background-color: blue;
+	text-align: center;
 }
 
 .button {
-    position: absolute;
-    top: 50%;
+	position: absolute;
+	top: 50%;
 }
