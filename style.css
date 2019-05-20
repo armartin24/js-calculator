@@ -22,3 +22,7 @@ body {
 	position: absolute;
 	top: 50%;
 }
+
+div {
+	padding-top: 200px;
+}
