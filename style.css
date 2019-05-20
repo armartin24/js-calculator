@@ -15,14 +15,11 @@ body {
 	text-align: center;
 	align-items: center;
 	display: inline-block;
+	vertical-align: baseline;
 	
 }
 
 .button {
 	position: absolute;
 	top: 50%;
-}
-
-div {
-	padding-top: 200px;
 }
