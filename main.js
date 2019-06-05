@@ -59,7 +59,7 @@ function number_divide() {
 }
 
 
-function number_times() {
+function number_multiply() {
   $("#place").append("x");
 }
 
@@ -67,7 +67,7 @@ function number_equals() {
   $("#place").append("equals");
 }
 
-function number_point() {
+function number_dot() {
   $("#place").append(".");
 }
 
