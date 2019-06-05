@@ -16,8 +16,10 @@ body {
 	align-items: center;
 	display: inline-block;
 	vertical-align: middle;
+}
+
+.box {
 	padding: 50px;
-	
 }
 
 .button {
