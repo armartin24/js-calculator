@@ -67,4 +67,7 @@ function number_equals() {
   $("#place").append("equals");
 }
 
+function number_point() {
+  $("#place").append(".");
+}
 
